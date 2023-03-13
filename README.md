@@ -2,5 +2,5 @@
 
 ### Local setup
 - Change *ConnectionString* in appsettings.Development.json to the current machine.
-- Update-database.
+- Run Update-Database from Visual Studio package manager console.
 - Run and test from API.
